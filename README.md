@@ -1,2 +1,9 @@
-# projeto-site-android
- Desenvolvimento de um site (responsivo) sobre o Android
+# Projeto site Android
+
+Desenvolvimento de um site (responsivo) contando um pouco sobre o Android.
+
+Este projeto faz parte dos meus estudos em HTML5 e CSS3 - [CursoEmVideo]
+
+<a href="https://mauriciocosta-psico.github.io/projeto-site-android/" target="_blank">Acesse o site aqui eveja como ficou</a>
+
+Lembrando que este site éresponsivo para telas menores com mudança do tamnaho das figuras e vídeo
