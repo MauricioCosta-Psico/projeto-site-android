@@ -27,8 +27,13 @@
 
 body {
     background-color: var(--cor0);
+    background-image: url('../imagens/android-fig-transparente.png');
+    background-repeat: space;
+    background-size: 100px 100px;
+    background-attachment: fixed;
     font-family: var(--font-padrão);
     font-size: var(--font-size-normal);
+    
 }
 
 a.externo::after {
